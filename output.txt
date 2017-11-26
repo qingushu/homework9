@@ -1,0 +1,4 @@
+tests-MacBook-Pro:homework9 gushuqin$ java Mutilthread
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+tests-MacBook-Pro:homework9 gushuqin$ 
